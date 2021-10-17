@@ -11,11 +11,11 @@
 <img src="https://user-images.githubusercontent.com/45159366/137403810-d0eeebf5-5fa7-43d1-a7ed-356abcf7c833.png">
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/137403813-2c5b4356-54a1-45c8-89eb-8123170999f4.png">
+<img src="https://user-images.githubusercontent.com/45159366/137644988-a8a19498-6ab6-414a-9169-d813d529b086.png">
  <br />
 </p>
 
- Apache Pig Architecture. Source: [DataFlair](https://data-flair.training/blogs/pig-architecture/)
+ Apache Pig Architecture. Source: [Apache Pig]()
 
 # Table of Contents
 
